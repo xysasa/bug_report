@@ -35,4 +35,4 @@ Upgrade-Insecure-Requests: 1
 CATEGORYID=24&CATEGORY=%3Cscript%3Ealert%281%29%3C%2Fscript%3E&save=
 ```
 
-![](E:\HK\study\CVE\0702\2\xss.gif)
+![](https://github.com/xysasa/bug_report/blob/main/vendors/campcodes.com/online-job-search-system/xss.gif?raw=true)
